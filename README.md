@@ -6,8 +6,7 @@
 - 🤔 I’m looking for help with creation of "myanimelist" for manhwas
 - 💬 Ask me about football, games, food, django and vuejs
 
-#### 📫 You can find me on
-
+#### 📫 You can find me on:
 
 <a href="https://linkedin.com/in/brunojamelli/">
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -21,7 +20,7 @@
 <a href="https://www.facebook.com/brunojamelli9/">
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.youtube.com/https://www.youtube.com/c/BrunoJamelle/videos?view_as=subscriber/">
+<a href="https://www.youtube.com/c/BrunoJamelle/videos?view_as=subscriber/">
   <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
