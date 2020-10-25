@@ -26,7 +26,8 @@
 
 <br/>
 <br/>
-### :zap: Recent Activity
+
+### :zap: Recent Activity 
 
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#4](https://github.com/BiaChacon/spaces-scheduling/issues/4) in [BiaChacon/spaces-scheduling](https://github.com/BiaChacon/spaces-scheduling)
@@ -35,4 +36,6 @@
 4. ❗️ Opened issue [#14](https://github.com/BiaChacon/spaces-scheduling/issues/14) in [BiaChacon/spaces-scheduling](https://github.com/BiaChacon/spaces-scheduling)
 5. ❗️ Opened issue [#13](https://github.com/BiaChacon/spaces-scheduling/issues/13) in [BiaChacon/spaces-scheduling](https://github.com/BiaChacon/spaces-scheduling)
 <!--END_SECTION:activity-->
+
+### Profile Stats
 <img src="https://github-readme-stats.brunojamelli.vercel.app/api?username=brunojamelli&show_icons=true&theme=merko">
