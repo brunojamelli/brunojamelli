@@ -26,6 +26,8 @@
 
 <br/>
 <br/>
+### :zap: Recent Activity
 
-
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 <img src="https://github-readme-stats.brunojamelli.vercel.app/api?username=brunojamelli&show_icons=true&theme=merko">
