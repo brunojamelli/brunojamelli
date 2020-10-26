@@ -39,3 +39,6 @@
 
 ### Profile Stats
 <img src="https://github-readme-stats.brunojamelli.vercel.app/api?username=brunojamelli&show_icons=true&theme=merko">
+
+### Spotify Playing
+[![Spotify](https://spotify-readme-status.vercel.app/api/spotify)](https://open.spotify.com/user/brunogeek9)
