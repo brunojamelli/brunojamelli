@@ -30,11 +30,11 @@
 ### :zap: Recent Activity 
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#39](https://github.com/BiaChacon/spaces-scheduling/issues/39) in [BiaChacon/spaces-scheduling](https://github.com/BiaChacon/spaces-scheduling)
+1. 🗣 Commented on [#36](https://github.com/BiaChacon/spaces-scheduling/issues/36) in [BiaChacon/spaces-scheduling](https://github.com/BiaChacon/spaces-scheduling)
 2. 🗣 Commented on [#39](https://github.com/BiaChacon/spaces-scheduling/issues/39) in [BiaChacon/spaces-scheduling](https://github.com/BiaChacon/spaces-scheduling)
-3. ❗️ Closed issue [#26](https://github.com/BiaChacon/spaces-scheduling/issues/26) in [BiaChacon/spaces-scheduling](https://github.com/BiaChacon/spaces-scheduling)
-4. ❗️ Opened issue [#39](https://github.com/BiaChacon/spaces-scheduling/issues/39) in [BiaChacon/spaces-scheduling](https://github.com/BiaChacon/spaces-scheduling)
-5. ❗️ Opened issue [#38](https://github.com/BiaChacon/spaces-scheduling/issues/38) in [BiaChacon/spaces-scheduling](https://github.com/BiaChacon/spaces-scheduling)
+3. 🗣 Commented on [#36](https://github.com/BiaChacon/spaces-scheduling/issues/36) in [BiaChacon/spaces-scheduling](https://github.com/BiaChacon/spaces-scheduling)
+4. ❗️ Closed issue [#39](https://github.com/BiaChacon/spaces-scheduling/issues/39) in [BiaChacon/spaces-scheduling](https://github.com/BiaChacon/spaces-scheduling)
+5. 🗣 Commented on [#39](https://github.com/BiaChacon/spaces-scheduling/issues/39) in [BiaChacon/spaces-scheduling](https://github.com/BiaChacon/spaces-scheduling)
 <!--END_SECTION:activity-->
 
 ### Profile Stats
