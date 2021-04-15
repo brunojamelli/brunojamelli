@@ -1,10 +1,10 @@
 ### I am a junior dev 👋
 <img src="https://komarev.com/ghpvc/?username=brunojamelli&label=Views&color=blue&style=plastic" alt="brunojamelli" />
 
-- 🔭 I’m currently working on freelancer at ACL tecnologia
+- 🔭 I’m currently working with devops in suvige project
 - 🌱 I’m currently learning typescript and nodejs
 - 🤔 I’m looking for help with creation of "myanimelist" for manhwas
-- 💬 Ask me about football, games, food, django and vuejs
+- 💬 Ask me about f1, games, node, django and vuejs
 
 #### 📫 You can find me on:
 
