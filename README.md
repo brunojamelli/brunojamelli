@@ -1,10 +1,10 @@
-### I am a junior dev 👋
+### I am a junior dev and devops enthusiastic 👋
 <img src="https://komarev.com/ghpvc/?username=brunojamelli&label=Views&color=blue&style=plastic" alt="brunojamelli" />
 
 - 🔭 I’m currently working with devops in suvige project
-- 🌱 I’m currently learning typescript and nodejs
+- 🌱 I’m currently learning CI/CD pipelines, server management and Scrum
 - 🤔 I’m looking for help with creation of "myanimelist" for manhwas
-- 💬 Ask me about f1, games, node, django and vuejs
+- 💬 Ask me about mangas, animes, docker, node and django
 
 #### 📫 You can find me on:
 
@@ -38,10 +38,17 @@
 <!--END_SECTION:activity-->
 
 ### Profile Stats
-<img height="180em" src="https://github-readme-stats.brunojamelli.vercel.app/api?username=brunojamelli&show_icons=true&theme=merko">
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.brunojamelli.vercel.app/api?username=brunojamelli&show_icons=true&theme=merko">
 
-<img height="180em" src="https://github-readme-stats.brunojamelli.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
-
+  <img height="180em" src="https://github-readme-stats.brunojamelli.vercel.app/api/top-langs/?username=brunojamelli&theme=merko&layout=compact" />
+</a>
+</p>
 
 ### Spotify Playing 🎧
+<p align="center">
+
 [![Spotify](https://spotify-readme-status.vercel.app/api/spotify)](https://open.spotify.com/user/brunogeek9)
+
+</p>
