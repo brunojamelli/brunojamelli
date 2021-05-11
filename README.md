@@ -30,11 +30,11 @@
 ### :zap: Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/BiaChacon/spaces-scheduling/pull/45) in [BiaChacon/spaces-scheduling](https://github.com/BiaChacon/spaces-scheduling)
-2. 💪 Opened PR [#45](https://github.com/BiaChacon/spaces-scheduling/pull/45) in [BiaChacon/spaces-scheduling](https://github.com/BiaChacon/spaces-scheduling)
-3. ❗️ Opened issue [#43](https://github.com/BiaChacon/spaces-scheduling/issues/43) in [BiaChacon/spaces-scheduling](https://github.com/BiaChacon/spaces-scheduling)
-4. ❗️ Opened issue [#40](https://github.com/BiaChacon/spaces-scheduling/issues/40) in [BiaChacon/spaces-scheduling](https://github.com/BiaChacon/spaces-scheduling)
-5. 🗣 Commented on [#36](https://github.com/BiaChacon/spaces-scheduling/issues/36) in [BiaChacon/spaces-scheduling](https://github.com/BiaChacon/spaces-scheduling)
+1. ❗️ Closed issue [#15](https://github.com/brunojamelli/potianuncios-api/issues/15) in [brunojamelli/potianuncios-api](https://github.com/brunojamelli/potianuncios-api)
+2. ❗️ Closed issue [#7](https://github.com/brunojamelli/potianuncios-api/issues/7) in [brunojamelli/potianuncios-api](https://github.com/brunojamelli/potianuncios-api)
+3. ❗️ Closed issue [#40](https://github.com/brunojamelli/potianuncios-api/issues/40) in [brunojamelli/potianuncios-api](https://github.com/brunojamelli/potianuncios-api)
+4. ❗️ Opened issue [#41](https://github.com/brunojamelli/potianuncios-api/issues/41) in [brunojamelli/potianuncios-api](https://github.com/brunojamelli/potianuncios-api)
+5. ❗️ Closed issue [#10](https://github.com/brunojamelli/potianuncios-api/issues/10) in [brunojamelli/potianuncios-api](https://github.com/brunojamelli/potianuncios-api)
 <!--END_SECTION:activity-->
 
 ### Profile Stats
