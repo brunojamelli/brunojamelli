@@ -38,7 +38,10 @@
 <!--END_SECTION:activity-->
 
 ### Profile Stats
-<img src="https://github-readme-stats.brunojamelli.vercel.app/api?username=brunojamelli&show_icons=true&theme=merko">
+<img height="180em" src="https://github-readme-stats.brunojamelli.vercel.app/api?username=brunojamelli&show_icons=true&theme=merko">
+
+<img height="180em" src="https://github-readme-stats.brunojamelli.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+
 
 ### Spotify Playing 🎧
 [![Spotify](https://spotify-readme-status.vercel.app/api/spotify)](https://open.spotify.com/user/brunogeek9)
