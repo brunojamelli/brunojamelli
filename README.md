@@ -27,11 +27,11 @@
 ### :zap: Recent Activity 
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#15](https://github.com/brunojamelli/potianuncios-api/issues/15) in [brunojamelli/potianuncios-api](https://github.com/brunojamelli/potianuncios-api)
-2. ❗️ Closed issue [#7](https://github.com/brunojamelli/potianuncios-api/issues/7) in [brunojamelli/potianuncios-api](https://github.com/brunojamelli/potianuncios-api)
-3. ❗️ Closed issue [#40](https://github.com/brunojamelli/potianuncios-api/issues/40) in [brunojamelli/potianuncios-api](https://github.com/brunojamelli/potianuncios-api)
-4. ❗️ Opened issue [#41](https://github.com/brunojamelli/potianuncios-api/issues/41) in [brunojamelli/potianuncios-api](https://github.com/brunojamelli/potianuncios-api)
-5. ❗️ Closed issue [#10](https://github.com/brunojamelli/potianuncios-api/issues/10) in [brunojamelli/potianuncios-api](https://github.com/brunojamelli/potianuncios-api)
+1. ❗️ Opened issue [#43](https://github.com/brunojamelli/potianuncios-api/issues/43) in [brunojamelli/potianuncios-api](https://github.com/brunojamelli/potianuncios-api)
+2. ❗️ Opened issue [#42](https://github.com/brunojamelli/potianuncios-api/issues/42) in [brunojamelli/potianuncios-api](https://github.com/brunojamelli/potianuncios-api)
+3. ❗️ Closed issue [#15](https://github.com/brunojamelli/potianuncios-api/issues/15) in [brunojamelli/potianuncios-api](https://github.com/brunojamelli/potianuncios-api)
+4. ❗️ Closed issue [#7](https://github.com/brunojamelli/potianuncios-api/issues/7) in [brunojamelli/potianuncios-api](https://github.com/brunojamelli/potianuncios-api)
+5. ❗️ Closed issue [#40](https://github.com/brunojamelli/potianuncios-api/issues/40) in [brunojamelli/potianuncios-api](https://github.com/brunojamelli/potianuncios-api)
 <!--END_SECTION:activity-->
 
 ### Profile Stats
