@@ -7,20 +7,24 @@
 - 💬 Ask me about mangas, animes, F1, docker, node and django
 
 #### 📫 You can find me on:
+<p align="left">
+<a href="https://linkedin.com/in/brunojamelli" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brunojamelli" height="30" width="40" />
+</a>
+<a href="https://fb.com/brunojamelli9" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="brunojamelli9" height="30" width="40" />
+</a>
+<a href="https://instagram.com/brunojamelli" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brunojamelli" height="30" width="40" />
+</a>
+<a href="https://medium.com/@brunojamelli" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@brunojamelli" height="30" width="40" />
+</a>
 
-<a href="https://linkedin.com/in/brunojamelli/">
-  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.youtube.com/c/BrunoJamelle/videos" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="brunojamelli" height="30" width="40" />
 </a>
-<a href="https://instagram.com/brunojamelli/">
-  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/brunojamelli9/">
-  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.youtube.com/c/BrunoJamelle/videos?view_as=subscriber/">
-  <img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-
+</p>
 <br/>
 <br/>
 
