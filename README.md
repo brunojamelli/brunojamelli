@@ -31,11 +31,11 @@
 ### :zap: Recent Activity 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#27](https://github.com/brunojamelli/poti-front/issues/27) in [brunojamelli/poti-front](https://github.com/brunojamelli/poti-front)
-2. ❗️ Opened issue [#26](https://github.com/brunojamelli/poti-front/issues/26) in [brunojamelli/poti-front](https://github.com/brunojamelli/poti-front)
-3. ❗️ Closed issue [#25](https://github.com/brunojamelli/poti-front/issues/25) in [brunojamelli/poti-front](https://github.com/brunojamelli/poti-front)
-4. ❗️ Opened issue [#25](https://github.com/brunojamelli/poti-front/issues/25) in [brunojamelli/poti-front](https://github.com/brunojamelli/poti-front)
-5. ❗️ Reopened issue [#24](https://github.com/brunojamelli/poti-front/issues/24) in [brunojamelli/poti-front](https://github.com/brunojamelli/poti-front)
+1. ❗️ Opened issue [#33](https://github.com/brunojamelli/poti-front/issues/33) in [brunojamelli/poti-front](https://github.com/brunojamelli/poti-front)
+2. ❗️ Opened issue [#32](https://github.com/brunojamelli/poti-front/issues/32) in [brunojamelli/poti-front](https://github.com/brunojamelli/poti-front)
+3. ❗️ Opened issue [#31](https://github.com/brunojamelli/poti-front/issues/31) in [brunojamelli/poti-front](https://github.com/brunojamelli/poti-front)
+4. ❗️ Opened issue [#30](https://github.com/brunojamelli/poti-front/issues/30) in [brunojamelli/poti-front](https://github.com/brunojamelli/poti-front)
+5. ❗️ Opened issue [#29](https://github.com/brunojamelli/poti-front/issues/29) in [brunojamelli/poti-front](https://github.com/brunojamelli/poti-front)
 <!--END_SECTION:activity-->
 
 ### Profile Stats
