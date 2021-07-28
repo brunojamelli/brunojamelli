@@ -31,11 +31,11 @@
 ### :zap: Recent Activity 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/brunojamelli/potianuncios-api/pull/55) in [brunojamelli/potianuncios-api](https://github.com/brunojamelli/potianuncios-api)
-2. 🗣 Commented on [#55](https://github.com/brunojamelli/potianuncios-api/issues/55) in [brunojamelli/potianuncios-api](https://github.com/brunojamelli/potianuncios-api)
-3. 💪 Opened PR [#55](https://github.com/brunojamelli/potianuncios-api/pull/55) in [brunojamelli/potianuncios-api](https://github.com/brunojamelli/potianuncios-api)
-4. ❗️ Opened issue [#54](https://github.com/brunojamelli/potianuncios-api/issues/54) in [brunojamelli/potianuncios-api](https://github.com/brunojamelli/potianuncios-api)
-5. ❗️ Closed issue [#30](https://github.com/brunojamelli/poti-front/issues/30) in [brunojamelli/poti-front](https://github.com/brunojamelli/poti-front)
+1. 🎉 Merged PR [#58](https://github.com/brunojamelli/potianuncios-api/pull/58) in [brunojamelli/potianuncios-api](https://github.com/brunojamelli/potianuncios-api)
+2. 💪 Opened PR [#58](https://github.com/brunojamelli/potianuncios-api/pull/58) in [brunojamelli/potianuncios-api](https://github.com/brunojamelli/potianuncios-api)
+3. 🎉 Merged PR [#57](https://github.com/brunojamelli/potianuncios-api/pull/57) in [brunojamelli/potianuncios-api](https://github.com/brunojamelli/potianuncios-api)
+4. 💪 Opened PR [#57](https://github.com/brunojamelli/potianuncios-api/pull/57) in [brunojamelli/potianuncios-api](https://github.com/brunojamelli/potianuncios-api)
+5. 🎉 Merged PR [#56](https://github.com/brunojamelli/potianuncios-api/pull/56) in [brunojamelli/potianuncios-api](https://github.com/brunojamelli/potianuncios-api)
 <!--END_SECTION:activity-->
 
 ### Profile Stats
