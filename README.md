@@ -31,11 +31,11 @@
 ### :zap: Recent Activity 
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#57](https://github.com/brunojamelli/poti-front/issues/57) in [brunojamelli/poti-front](https://github.com/brunojamelli/poti-front)
-2. ❗️ Closed issue [#48](https://github.com/brunojamelli/poti-front/issues/48) in [brunojamelli/poti-front](https://github.com/brunojamelli/poti-front)
-3. ❗️ Opened issue [#57](https://github.com/brunojamelli/poti-front/issues/57) in [brunojamelli/poti-front](https://github.com/brunojamelli/poti-front)
-4. ❗️ Closed issue [#45](https://github.com/brunojamelli/potianuncios-api/issues/45) in [brunojamelli/potianuncios-api](https://github.com/brunojamelli/potianuncios-api)
-5. ❗️ Closed issue [#52](https://github.com/brunojamelli/potianuncios-api/issues/52) in [brunojamelli/potianuncios-api](https://github.com/brunojamelli/potianuncios-api)
+1. 🎉 Merged PR [#58](https://github.com/brunojamelli/poti-front/pull/58) in [brunojamelli/poti-front](https://github.com/brunojamelli/poti-front)
+2. 💪 Opened PR [#58](https://github.com/brunojamelli/poti-front/pull/58) in [brunojamelli/poti-front](https://github.com/brunojamelli/poti-front)
+3. ❗️ Closed issue [#57](https://github.com/brunojamelli/poti-front/issues/57) in [brunojamelli/poti-front](https://github.com/brunojamelli/poti-front)
+4. ❗️ Closed issue [#48](https://github.com/brunojamelli/poti-front/issues/48) in [brunojamelli/poti-front](https://github.com/brunojamelli/poti-front)
+5. ❗️ Opened issue [#57](https://github.com/brunojamelli/poti-front/issues/57) in [brunojamelli/poti-front](https://github.com/brunojamelli/poti-front)
 <!--END_SECTION:activity-->
 
 ### Profile Stats
