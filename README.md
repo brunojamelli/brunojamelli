@@ -1,10 +1,10 @@
 ### I am a junior dev and devops enthusiastic 👋
 <img src="https://komarev.com/ghpvc/?username=brunojamelli&label=Views&color=blue&style=plastic" alt="brunojamelli" />
 
-- 🔭 I’m currently working with devops and infra in suvige project
-- 🌱 I’m currently learning CI/CD pipelines, server management and node
+- 🔭 I’m currently open to new job opportunities
+- 🌱 I’m currently learning CI/CD pipelines, server management and opensource
 - 🤔 I’m looking for help with creation of "myanimelist" for manhwas
-- 💬 Ask me about mangas, animes, F1, docker, node and django
+- 💬 Ask me about mangas, animes, F1, football, docker and node
 
 #### 📫 You can find me on:
 <p align="left">
